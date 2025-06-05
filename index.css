@@ -1,0 +1,120 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url(https://www.todofondos.net/wp-content/uploads/1280x720-Pokemon-Wallpaper-Pink-El-mejor-fondo-de-pantalla-descarga-768x432.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #f0f0f0; /* Un gris claro, como fondo de pantalla de juego */
+    margin: 0; /* Elimina márgenes predeterminados */
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Asegura que el body ocupe toda la altura de la ventana */
+    align-items: center;
+}
+
+.encabezado {
+    color: #333; /* Gris oscuro */
+    padding-bottom: 6vh;
+    padding-top: 10vh;
+    text-align: center;
+}
+
+.encabezado h1 {
+    color: #05ffd9;
+    margin: 0;
+    font-size: 6em; /* Tamaño de fuente grande para el título */
+    text-shadow: 1px 1px 0px rgb(5, 255, 217),
+                2px 2px 0px rgba(200,200,200,1),
+                3px 3px 0px rgba(180,180,180,1),
+                4px 4px 0px rgba(160,160,160,1),
+                5px 5px 0px rgba(0,0,0,1),
+                8px 8px 20px rgba(0,0,0,0.5);
+
+}
+
+
+/* El contenedor <details> se comporta en bloque para ocupar todo el ancho disponible.
+   Si prefieres que sea más reducido, puedes usar display: inline-block; */
+details {
+    display: block;
+    margin: 10px 0;
+    text-align: center; /* Ajusta según cómo quieras el texto del <summary> */
+}
+
+/* Estiliza el <summary> como si fuera un botón */
+details summary {
+    background-color: #05ffd9;
+    display: inline-block; /* Para que se comporte más como un botón */
+    padding: 20px 30px;
+    font-size: 0.7em;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: #000000;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    border: 3px solid black;
+    outline: none; /* Evita borde al hacer click/tecla de Tab en algunos navegadores */
+    user-select: none; /* Evita que se seleccione el texto al hacer click rápido */
+}
+
+/* Quita el marcador (triángulo) por defecto del summary en navegadores basados en WebKit */
+details summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Efecto hover */
+details summary:hover {
+    background-color: #00dfc2;
+    transform: translateY(-4px);
+    box-shadow: 0 10px 15px rgb(255, 255, 255),
+    0 0 20px rgb(0, 223, 194) inset;
+}
+
+/* Efecto clic */
+details summary:active {
+    transform: translateY(0);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Un poco de separación a los elementos dentro del details */
+details > *:not(summary) {
+    display: block;
+    margin-top:10px;
+}
+
+.button-container {
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    flex-wrap: wrap; /* Permite que los botones se envuelvan en pantallas pequeñas */
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    background-color: #8f1277; /* Rojo pokeball */
+    color: white;
+    padding: 15px 30px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.button:hover {
+    background-color: #510d47; /* Rojo más oscuro al pasar el ratón */
+    box-shadow: 0 10px 15px rgba(255, 255, 255, 0.79),
+    0 0 20px rgb(174, 1, 147) inset;
+}
+
+a {
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+}

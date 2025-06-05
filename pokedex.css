@@ -1,0 +1,155 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 5 mar 2025, 12:20:19
+    Author     : Usuario
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://wallpapers.com/images/high/pokemon-minimalist-6mbjdufzorg9jqpa.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+
+.menu-desplegable {
+    padding-right: 20px;
+    padding-left: 20px;
+    position: relative;
+    display: block;
+    justify-self: center;
+}
+
+/* Botón del menú */
+.menu-btn {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+/* Lista del menú desplegable */
+.menu-lista {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 5px;
+    overflow: hidden;
+    left: 0;
+}
+
+/* Enlaces dentro del menú */
+.menu-lista a {
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+.menu-lista a:hover {
+    background-color: grey;
+}
+
+/* Mostrar el menú al pasar el cursor */
+.menu-desplegable:hover .menu-lista {
+    display: block;
+}
+
+table {
+    opacity: 90%;
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+    border-radius: 8px; /* Bordes redondeados */
+    overflow: hidden; /* Evita que la sombra se vea cortada */
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #eee; /* Líneas divisorias */
+    background-color: white; /* Fondo blanco para las celdas */
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+img {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px; /* Bordes redondeados para las imágenes */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra para las imágenes */
+}
+
+.pokemon-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px; /* Reducido el margen */
+}
+
+.pokemon-info {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.pokemon-name {
+    font-size: 1.8em; /* Tamaño de letra aumentado */
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #007bff; /* Azul para el nombre */
+}
+
+.pokemon-stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+    gap: 10px; /* Espacio entre elementos */
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.stat-container {
+    display: flex; /* Para alinear label y valor */
+    align-items: center; /* Centrar verticalmente */
+}
+
+.stat-label {
+    font-weight: bold;
+    color: #555;
+    width: 60%; /* Ancho fijo para las etiquetas */
+    text-align: left; /* Alinea el texto a la izquierda */
+}
+
+.stat-value {
+    text-align: right; /* Alinea los valores a la derecha */
+    width: 40%; /* Ancho fijo para los valores */
+}

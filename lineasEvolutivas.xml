@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/pokedex.xsl"?>
+<lineas_evolutivas xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+                   xsi:noNamespaceSchemaLocation='../xsd/lineasEvolutiva.xsd'>
+   <linea_evolutiva>
+        <pokemon>
+            <nombre>Bulbasaur</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png</imagen>
+            <tipo>Planta</tipo>
+            <nivelEvolucion>16</nivelEvolucion>
+        </pokemon>
+        <pokemon>
+            <nombre>Ivysaur</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png</imagen>
+            <tipo>Planta</tipo>
+            <nivelEvolucion>32</nivelEvolucion>
+        </pokemon>
+        <pokemon>
+            <nombre>Venusaur</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png</imagen>
+            <tipo>Planta</tipo>
+        </pokemon>
+    </linea_evolutiva>
+    <linea_evolutiva>
+        <pokemon>
+            <nombre>Charmander</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png</imagen>
+            <tipo>Fuego</tipo>
+            <nivelEvolucion>16</nivelEvolucion>
+        </pokemon>
+        <pokemon>
+            <nombre>Charmeleon</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png</imagen>
+            <tipo>Fuego</tipo>
+            <nivelEvolucion>36</nivelEvolucion>
+        </pokemon>
+        <pokemon>
+            <nombre>Charizard</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png</imagen>
+            <tipo>Fuego</tipo>
+        </pokemon>
+    </linea_evolutiva>
+    <linea_evolutiva>
+        <pokemon>
+            <nombre>Sandslash</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png</imagen>
+            <tipo>Tierra</tipo>
+            <nivelEvolucion>22</nivelEvolucion>
+        </pokemon>
+        <pokemon>
+            <nombre>Sandslash</nombre>
+            <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png</imagen>
+            <tipo>Tierra</tipo>
+        </pokemon>
+
+    </linea_evolutiva>
+</lineas_evolutivas>

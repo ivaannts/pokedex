@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:element name="pokedex">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="pokemon" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="numero" type="xs:integer"/>
+                            <xs:element name="imagen" type="xs:string"/>
+                            <xs:element name="imagen_shiny" type="xs:string"/>
+                            <xs:element name="puntos_base">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="ps" type="xs:integer"/>
+                                        <xs:element name="ataque" type="xs:integer"/>
+                                        <xs:element name="defensa" type="xs:integer"/>
+                                        <xs:element name="ataque_especial" type="xs:integer"/>
+                                        <xs:element name="defensa_especial" type="xs:integer"/>
+                                        <xs:element name="velocidad" type="xs:integer"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="descripcion" type="xs:string"/>
+                            <xs:element name="altura" type="xs:float"/>
+                            <xs:element name="peso" type="xs:float"/>
+                            <xs:element name="genero">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="Masculino|Femenino"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="categoria" type="xs:string"/>
+                            <xs:element name="habilidad" maxOccurs = "unbounded" type="xs:string"/>
+                            <xs:element name="tipo" maxOccurs="2">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Planta"/>
+                                        <xs:enumeration value="Fuego"/>
+                                        <xs:enumeration value="Agua"/>
+                                        <xs:enumeration value="Normal"/>
+                                        <xs:enumeration value="Volador"/>
+                                        <xs:enumeration value="Hielo"/>
+                                        <xs:enumeration value="Eléctrico"/>
+                                        <xs:enumeration value="Roca"/>
+                                        <xs:enumeration value="Tierra"/>
+                                        <xs:enumeration value="Veneno"/>
+                                        <xs:enumeration value="Psíquico"/>
+                                        <xs:enumeration value="Siniestro"/>
+                                        <xs:enumeration value="Dragón"/>
+                                        <xs:enumeration value="Hada"/>
+                                        <xs:enumeration value="Lucha"/>
+                                        <xs:enumeration value="Fantasma"/>
+                                        <xs:enumeration value="Acero"/>
+                                        <xs:enumeration value="Bicho"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="debilidad" maxOccurs="unbounded">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Planta"/>
+                                        <xs:enumeration value="Fuego"/>
+                                        <xs:enumeration value="Agua"/>
+                                        <xs:enumeration value="Normal"/>
+                                        <xs:enumeration value="Volador"/>
+                                        <xs:enumeration value="Hielo"/>
+                                        <xs:enumeration value="Eléctrico"/>
+                                        <xs:enumeration value="Roca"/>
+                                        <xs:enumeration value="Tierra"/>
+                                        <xs:enumeration value="Veneno"/>
+                                        <xs:enumeration value="Psíquico"/>
+                                        <xs:enumeration value="Siniestro"/>
+                                        <xs:enumeration value="Dragón"/>
+                                        <xs:enumeration value="Hada"/>
+                                        <xs:enumeration value="Lucha"/>
+                                        <xs:enumeration value="Fantasma"/>
+                                        <xs:enumeration value="Acero"/>
+                                        <xs:enumeration value="Bicho"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="evolucion" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:attribute name="nombre" type="xs:string" use="required"/>
+                                    <xs:attribute name="nivel" type="xs:integer"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

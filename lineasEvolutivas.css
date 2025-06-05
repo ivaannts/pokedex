@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/234/590/425/pokemon-pokemon-first-generation-charizard-red-pokemon-gary-oak-hd-wallpaper-preview.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.titulo{
+    text-align: center;
+    font-size: 3rem;
+}
+.linea-evolutiva {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.linea-evolutiva.planta-fondo{
+    background-color: #5cda00;
+}
+
+.pokemon {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.pokemon img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.7));
+}
+
+.nivel{
+    display: flex;
+    font-size: 120%;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.nivel img{
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+

@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/pokedex.xsl"?>
+<pokedex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+         xsi:noNamespaceSchemaLocation='../xsd/pokedex.xsd'>
+    <pokemon>
+        <numero>1</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/1_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>45</ps>
+            <ataque>49</ataque>
+            <defensa>49</defensa>
+            <ataque_especial>65</ataque_especial>
+            <defensa_especial>65</defensa_especial>
+            <velocidad>45</velocidad>
+        </puntos_base>
+        <nombre>Bulbasaur</nombre>
+        <descripcion>A esta planta en su espalda, le brota un retoño grande. Luego crece un capullo todavía más
+            grande.
+        </descripcion>
+        <altura>0.7</altura>
+        <peso>6.9</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Semilla</categoria>
+        <habilidad>Espesura</habilidad>
+        <tipo>Planta</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Ivysaur" nivel="16"/>
+    </pokemon>
+    <pokemon>
+        <numero>2</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/2_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>60</ps>
+            <ataque>62</ataque>
+            <defensa>63</defensa>
+            <ataque_especial>80</ataque_especial>
+            <defensa_especial>80</defensa_especial>
+            <velocidad>60</velocidad>
+        </puntos_base>
+        <nombre>Ivysaur</nombre>
+        <descripcion>Si le da el sol, la flor en su espalda crece rápidamente. Su aroma atrae a gente que está a su
+            alrededor.
+        </descripcion>
+        <altura>1.0</altura>
+        <peso>13.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Semilla</categoria>
+        <habilidad>Espesura</habilidad>
+        <tipo>Planta</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Venusaur" nivel="32"/>
+    </pokemon>
+    <pokemon>
+        <numero>3</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/3_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>80</ps>
+            <ataque>82</ataque>
+            <defensa>83</defensa>
+            <ataque_especial>100</ataque_especial>
+            <defensa_especial>100</defensa_especial>
+            <velocidad>80</velocidad>
+        </puntos_base>
+        <nombre>Venusaur</nombre>
+        <descripcion>Hay una flor enorme en la espalda de Venusaur. La flor lanza una gran cantidad de polen cuando
+            florece.
+        </descripcion>
+        <altura>2.0</altura>
+        <peso>100.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Semilla</categoria>
+        <habilidad>Espesura</habilidad>
+        <tipo>Planta</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>4</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/4_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>39</ps>
+            <ataque>52</ataque>
+            <defensa>43</defensa>
+            <ataque_especial>60</ataque_especial>
+            <defensa_especial>50</defensa_especial>
+            <velocidad>65</velocidad>
+        </puntos_base>
+        <nombre>Charmander</nombre>
+        <descripcion>La llama que tiene en la punta de la cola arde con fuerza en función de sus sentimientos. Oscila
+            cuando está contento y se debilita cuando está triste.
+        </descripcion>
+        <altura>0.6</altura>
+        <peso>8.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Lagartija</categoria>
+        <habilidad>Mar Llamas</habilidad>
+        <tipo>Fuego</tipo>
+        <debilidad>Tierra</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Agua</debilidad>
+        <evolucion nombre="Charmaleon" nivel="16"/>
+    </pokemon>
+    <pokemon>
+        <numero>5</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/5_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>58</ps>
+            <ataque>64</ataque>
+            <defensa>58</defensa>
+            <ataque_especial>80</ataque_especial>
+            <defensa_especial>65</defensa_especial>
+            <velocidad>80</velocidad>
+        </puntos_base>
+        <nombre>Charmeleon</nombre>
+        <descripcion>Charmeleon destruye a sus oponentes sin piedad con sus garras afiladas, aunque a veces se muestra
+            bondadoso. Tras derrotar a un oponente fuerte, se vuelve un tanto presumido.
+        </descripcion>
+        <altura>1.1</altura>
+        <peso>19.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Llama</categoria>
+        <habilidad>Mar Llamas</habilidad>
+        <tipo>Fuego</tipo>
+        <debilidad>Tierra</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Agua</debilidad>
+        <evolucion nombre="Charizard" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>6</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/6_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>78</ps>
+            <ataque>84</ataque>
+            <defensa>78</defensa>
+            <ataque_especial>109</ataque_especial>
+            <defensa_especial>85</defensa_especial>
+            <velocidad>100</velocidad>
+        </puntos_base>
+        <nombre>Charizard</nombre>
+        <descripcion>Charizard vuela buscando oponentes poderosos. Su aliento de fuego es tan caliente que funde las
+            rocas. Causa incendios forestales sin querer.
+        </descripcion>
+        <altura>1.7</altura>
+        <peso>90.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Llama</categoria>
+        <habilidad>Mar Llamas</habilidad>
+        <tipo>Fuego</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Roca</debilidad>
+        <debilidad>Agua</debilidad>
+        <debilidad>Eléctrico</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>7</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/7_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>44</ps>
+            <ataque>48</ataque>
+            <defensa>65</defensa>
+            <ataque_especial>50</ataque_especial>
+            <defensa_especial>64</defensa_especial>
+            <velocidad>43</velocidad>
+        </puntos_base>
+        <nombre>Squirtle</nombre>
+        <descripcion>El caparazón de Squirtle no le sirve solo de protección. La forma redondeada del caparazón y la
+            superficie estriada le ayudan a minimizar la resistencia al agua y le permiten nadar a gran velocidad.
+        </descripcion>
+        <altura>0.5</altura>
+        <peso>9.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Tortuguita</categoria>
+        <habilidad>Torrente</habilidad>
+        <tipo>Agua</tipo>
+        <debilidad>Planta</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <evolucion nombre="Wartortle" nivel="16"/>
+    </pokemon>
+    <pokemon>
+        <numero>8</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/8_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>59</ps>
+            <ataque>63</ataque>
+            <defensa>80</defensa>
+            <ataque_especial>65</ataque_especial>
+            <defensa_especial>80</defensa_especial>
+            <velocidad>58</velocidad>
+        </puntos_base>
+        <nombre>Wartortle</nombre>
+        <descripcion>Se dice que Wartortle vive 10.000 años. Es un Pokémon muy popular como símbolo de longevidad y
+            buena suerte.
+        </descripcion>
+        <altura>1.0</altura>
+        <peso>22.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Tortuga</categoria>
+        <habilidad>Torrente</habilidad>
+        <tipo>Agua</tipo>
+        <debilidad>Planta</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <evolucion nombre="Blastoise" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>9</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/9_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>79</ps>
+            <ataque>83</ataque>
+            <defensa>100</defensa>
+            <ataque_especial>85</ataque_especial>
+            <defensa_especial>105</defensa_especial>
+            <velocidad>78</velocidad>
+        </puntos_base>
+        <nombre>Blastoise</nombre>
+        <descripcion>Blastoise lanza chorros de agua con suma precisión por los tubos que tiene en el caparazón. Puede
+            disparar balas de agua con precisión suficiente como para dar a latas pequeñas a 50 m de distancia.
+        </descripcion>
+        <altura>1.6</altura>
+        <peso>85.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Armazón</categoria>
+        <habilidad>Torrente</habilidad>
+        <tipo>Agua</tipo>
+        <debilidad>Planta</debilidad>
+        <debilidad>Eléctrico</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>10</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/10_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>45</ps>
+            <ataque>30</ataque>
+            <defensa>35</defensa>
+            <ataque_especial>20</ataque_especial>
+            <defensa_especial>20</defensa_especial>
+            <velocidad>45</velocidad>
+        </puntos_base>
+        <nombre>Caterpie</nombre>
+        <descripcion>Caterpie tiene un apetito voraz, y su estómago es enorme. Lo que más le gusta es comer hojas
+            tiernas. Si este Pokémon te molesta, puede que lance un olor maloliente por las antenas.
+        </descripcion>
+        <altura>0.3</altura>
+        <peso>2.9</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Gusano</categoria>
+        <habilidad>Polvo Escudo</habilidad>
+        <tipo>Bicho</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Roca</debilidad>
+        <evolucion nombre="Metapod" nivel="7"/>
+    </pokemon>
+    <pokemon>
+        <numero>11</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/11_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>50</ps>
+            <ataque>20</ataque>
+            <defensa>55</defensa>
+            <ataque_especial>25</ataque_especial>
+            <defensa_especial>25</defensa_especial>
+            <velocidad>30</velocidad>
+        </puntos_base>
+        <nombre>Metapod</nombre>
+        <descripcion>El caparazón que cubre el cuerpo de Metapod es tan duro como una placa de acero. No se mueve mucho.
+            Permanece inmóvil para prepararse para la evolución en su interior.
+        </descripcion>
+        <altura>0.7</altura>
+        <peso>9.9</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Crisálida</categoria>
+        <habilidad>Mudar</habilidad>
+        <tipo>Bicho</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Roca</debilidad>
+        <evolucion nombre="Butterfree" nivel="10"/>
+    </pokemon>
+    <pokemon>
+        <numero>12</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/12_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>60</ps>
+            <ataque>45</ataque>
+            <defensa>50</defensa>
+            <ataque_especial>90</ataque_especial>
+            <defensa_especial>80</defensa_especial>
+            <velocidad>70</velocidad>
+        </puntos_base>
+        <nombre>Butterfree</nombre>
+        <descripcion>Butterfree adora el néctar de las flores y puede localizar las que tienen buen néctar incluso a 10
+            km de distancia.
+        </descripcion>
+        <altura>1.1</altura>
+        <peso>32.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Mariposa</categoria>
+        <habilidad>Ojo Compuesto</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Roca</debilidad>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Hielo</debilidad>
+        <debilidad>Eléctrico</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>13</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/13_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>40</ps>
+            <ataque>35</ataque>
+            <defensa>30</defensa>
+            <ataque_especial>20</ataque_especial>
+            <defensa_especial>20</defensa_especial>
+            <velocidad>50</velocidad>
+        </puntos_base>
+        <nombre>Weedle</nombre>
+        <descripcion>Weedle tiene un sentido del olfato muy agudo. Es capaz de distinguir el tipo de hojas que le gustan
+            y de buscar entre las muchas que hay en un bosque y encontrar las que más le convienen.
+        </descripcion>
+        <altura>0.3</altura>
+        <peso>3.2</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Oruga</categoria>
+        <habilidad>Polvo Escudo</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Roca</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>14</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/14_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>45</ps>
+            <ataque>25</ataque>
+            <defensa>50</defensa>
+            <ataque_especial>25</ataque_especial>
+            <defensa_especial>25</defensa_especial>
+            <velocidad>35</velocidad>
+        </puntos_base>
+        <nombre>Kakuna</nombre>
+        <descripcion>Kakuna permanece casi inmóvil, agarrado a un árbol. Sin embargo, en su interior está muy ocupado
+            preparándose para la evolución. Basta con que toques su caparazón por descuido para que te ataque con su
+            aguijón venenoso.
+        </descripcion>
+        <altura>0.6</altura>
+        <peso>10.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Crisálida</categoria>
+        <habilidad>Mudar</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Roca</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>15</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/15_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>65</ps>
+            <ataque>90</ataque>
+            <defensa>40</defensa>
+            <ataque_especial>45</ataque_especial>
+            <defensa_especial>80</defensa_especial>
+            <velocidad>75</velocidad>
+        </puntos_base>
+        <nombre>Beedrill</nombre>
+        <descripcion>Beedrill es sumamente territorial. Es mejor no acercarse a su colmena; por seguridad. Si se le
+            provoca, atacará en grupo y picará a la vez con sus tres aguijones venenosos en cuanto se ponga en peligro.
+        </descripcion>
+        <altura>1.0</altura>
+        <peso>29.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Abeja</categoria>
+        <habilidad>Enjambre</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Roca</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>16</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/16_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>40</ps>
+            <ataque>45</ataque>
+            <defensa>40</defensa>
+            <ataque_especial>35</ataque_especial>
+            <defensa_especial>35</defensa_especial>
+            <velocidad>56</velocidad>
+        </puntos_base>
+        <nombre>Pidgey</nombre>
+        <descripcion>Pidgey es muy dócil y fácil de capturar. Es el blanco perfecto para practicar las primeras capturas
+            de Pokémon. Sin embargo, puede llegar a defenderse con fiereza.
+        </descripcion>
+        <altura>0.3</altura>
+        <peso>1.8</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Pajarito</categoria>
+        <habilidad>Vista Lince</habilidad>
+        <habilidad>Tumbos</habilidad>
+        <tipo>Normal</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Roca</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Pidgeotto" nivel="18"/>
+    </pokemon>
+    <pokemon>
+        <numero>17</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/17_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>63</ps>
+            <ataque>60</ataque>
+            <defensa>55</defensa>
+            <ataque_especial>50</ataque_especial>
+            <defensa_especial>50</defensa_especial>
+            <velocidad>71</velocidad>
+        </puntos_base>
+        <nombre>Pidgeotto</nombre>
+        <descripcion>Pidgeotto se mueve por su propio territorio, que es muy extenso. Vuela patrullando toda la zona. Si
+            invade su territorio, no tendrá piedad y lo machacará con sus garras afiladas.
+        </descripcion>
+        <altura>1.1</altura>
+        <peso>30.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Pájaro</categoria>
+        <habilidad>Vista Lince</habilidad>
+        <habilidad>Tumbos</habilidad>
+        <tipo>Normal</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Roca</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Pidgeot" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>18</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/18_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>83</ps>
+            <ataque>80</ataque>
+            <defensa>75</defensa>
+            <ataque_especial>70</ataque_especial>
+            <defensa_especial>70</defensa_especial>
+            <velocidad>101</velocidad>
+        </puntos_base>
+        <nombre>Pidgeot</nombre>
+        <descripcion>Pidgeot es un Pokémon de una belleza asombrosa, sobre todo por el lustroso plumaje que tiene. Los
+            Entrenadores se pirran por él.
+        </descripcion>
+        <altura>1.5</altura>
+        <peso>39.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Pájaro</categoria>
+        <habilidad>Vista Lince</habilidad>
+        <habilidad>Tumbos</habilidad>
+        <tipo>Normal</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Roca</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>19</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/019.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/19_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>30</ps>
+            <ataque>56</ataque>
+            <defensa>35</defensa>
+            <ataque_especial>25</ataque_especial>
+            <defensa_especial>35</defensa_especial>
+            <velocidad>72</velocidad>
+        </puntos_base>
+        <nombre>Rattata</nombre>
+        <descripcion>Rattata es muy cauteloso. Extremadamente cauto. Hasta dormido, no deja de mover las orejas para
+            enterarse de lo que pasa a su alrededor. No es muy exigente con el lugar donde vive: ¡en cualquier sitio se
+            encuentra a gusto!
+        </descripcion>
+        <altura>0.3</altura>
+        <peso>3.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Ratón</categoria>
+        <habilidad>Fuga</habilidad>
+        <habilidad>Entusiasmo</habilidad>
+        <tipo>Normal</tipo>
+        <debilidad>Lucha</debilidad>
+        <evolucion nombre="Raticate" nivel="20"/>
+    </pokemon>
+    <pokemon>
+        <numero>20</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/020.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/20_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>55</ps>
+            <ataque>81</ataque>
+            <defensa>60</defensa>
+            <ataque_especial>50</ataque_especial>
+            <defensa_especial>70</defensa_especial>
+            <velocidad>97</velocidad>
+        </puntos_base>
+        <nombre>Raticate</nombre>
+        <descripcion>Los afilados colmillos de Raticate crecen sin parar. Para limarlos, roe las rocas y los troncos de
+            los árboles. Puede que hasta se meta en las casas para roer las paredes.
+        </descripcion>
+        <altura>0.7</altura>
+        <peso>18.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Ratón</categoria>
+        <habilidad>Fuga</habilidad>
+        <habilidad>Entusiasmo</habilidad>
+        <tipo>Normal</tipo>
+        <debilidad>Lucha</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>21</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/21_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>40</ps>
+            <ataque>60</ataque>
+            <defensa>30</defensa>
+            <ataque_especial>31</ataque_especial>
+            <defensa_especial>31</defensa_especial>
+            <velocidad>70</velocidad>
+        </puntos_base>
+        <nombre>Spearow</nombre>
+        <descripcion>Spearow tiene muy mal genio. Es muy temperamental y se deja ver claramente en su voz chillona y
+            estridente que usa para chillar y discutir.
+        </descripcion>
+        <altura>0.3</altura>
+        <peso>2.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Pajarillo</categoria>
+        <habilidad>Vista Lince</habilidad>
+        <habilidad>Francotirador</habilidad>
+        <tipo>Normal</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Roca</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Fearow" nivel="20"/>
+    </pokemon>
+    <pokemon>
+        <numero>22</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/22_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>65</ps>
+            <ataque>90</ataque>
+            <defensa>65</defensa>
+            <ataque_especial>61</ataque_especial>
+            <defensa_especial>61</defensa_especial>
+            <velocidad>100</velocidad>
+        </puntos_base>
+        <nombre>Fearow</nombre>
+        <descripcion>Fearow se reconoce por su largo pico y su cuello extensible. Son ideales para capturar presas en
+            tierra o en agua. Se mueve con gran destreza y rapidez en el aire gracias a sus grandes alas.
+        </descripcion>
+        <altura>1.2</altura>
+        <peso>38.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Pájaro</categoria>
+        <habilidad>Vista Lince</habilidad>
+        <habilidad>Francotirador</habilidad>
+        <tipo>Normal</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Roca</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>23</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/23_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>35</ps>
+            <ataque>60</ataque>
+            <defensa>44</defensa>
+            <ataque_especial>40</ataque_especial>
+            <defensa_especial>54</defensa_especial>
+            <velocidad>55</velocidad>
+        </puntos_base>
+        <nombre>Ekans</nombre>
+        <descripcion>Ekans se enrosca en espiral para descansar. En esta postura, puede reaccionar ante cualquier
+            peligro en cualquier dirección con tan solo levantar un poco la cabeza.
+        </descripcion>
+        <altura>2.0</altura>
+        <peso>6.9</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Serpiente</categoria>
+        <habilidad>Intimidación</habilidad>
+        <habilidad>Mudar</habilidad>
+        <tipo>Veneno</tipo>
+        <debilidad>Tierra</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <evolucion nombre="Arbok" nivel="22"/>
+    </pokemon>
+    <pokemon>
+        <numero>24</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/24_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>60</ps>
+            <ataque>95</ataque>
+            <defensa>69</defensa>
+            <ataque_especial>65</ataque_especial>
+            <defensa_especial>79</defensa_especial>
+            <velocidad>80</velocidad>
+        </puntos_base>
+        <nombre>Arbok</nombre>
+        <descripcion>Se dice que los espantosos patrones que hay en el estómago de Arbok están relacionados con 20
+            clases de movimientos. Se sabe que las hembras tienen un patrón más vistoso.
+        </descripcion>
+        <altura>3.5</altura>
+        <peso>65.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Cobra</categoria>
+        <habilidad>Intimidación</habilidad>
+        <habilidad>Mudar</habilidad>
+        <tipo>Veneno</tipo>
+        <debilidad>Tierra</debilidad>
+        <debilidad>Psíquico</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>25</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/25_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>35</ps>
+            <ataque>55</ataque>
+            <defensa>40</defensa>
+            <ataque_especial>50</ataque_especial>
+            <defensa_especial>50</defensa_especial>
+            <velocidad>90</velocidad>
+        </puntos_base>
+        <nombre>Pikachu</nombre>
+        <descripcion>Cuanto más potente es la energía eléctrica que genera Pikachu, más suaves y extensibles se vuelven
+            las bolsas de sus mejillas.
+        </descripcion>
+        <altura>0.4</altura>
+        <peso>6.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Ratón</categoria>
+        <habilidad>Electricidad Estática</habilidad>
+        <tipo>Eléctrico</tipo>
+        <debilidad>Tierra</debilidad>
+        <evolucion nombre="Raichu" nivel="26"/>
+    </pokemon>
+    <pokemon>
+        <numero>26</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/26_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>60</ps>
+            <ataque>90</ataque>
+            <defensa>55</defensa>
+            <ataque_especial>90</ataque_especial>
+            <defensa_especial>85</defensa_especial>
+            <velocidad>110</velocidad>
+        </puntos_base>
+        <nombre>Raichu</nombre>
+        <descripcion>Si las bolsas de las mejillas de Raichu se cargan mucho de electricidad, las orejas se le erizan.
+            Raichu ataca con electricidad de 100.000 voltios, y hasta deja inconscientes a los Pokémon más grandes.
+        </descripcion>
+        <altura>0.8</altura>
+        <peso>30.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Ratón</categoria>
+        <habilidad>Electricidad Estática</habilidad>
+        <tipo>Eléctrico</tipo>
+        <debilidad>Tierra</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>27</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/27_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>50</ps>
+            <ataque>75</ataque>
+            <defensa>85</defensa>
+            <ataque_especial>20</ataque_especial>
+            <defensa_especial>30</defensa_especial>
+            <velocidad>40</velocidad>
+        </puntos_base>
+        <nombre>Sandshrew</nombre>
+        <descripcion>Sandshrew tiene una piel muy seca y dura. Este Pokémon puede hacerse una bola para protegerse del
+            ataque de sus enemigos.
+        </descripcion>
+        <altura>0.6</altura>
+        <peso>12.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Ratón</categoria>
+        <habilidad>Velo Arena</habilidad>
+        <tipo>Tierra</tipo>
+        <debilidad>Agua</debilidad>
+        <debilidad>Planta</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Sandslash" nivel="22"/>
+    </pokemon>
+    <pokemon>
+        <numero>28</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/28_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>75</ps>
+            <ataque>100</ataque>
+            <defensa>110</defensa>
+            <ataque_especial>45</ataque_especial>
+            <defensa_especial>55</defensa_especial>
+            <velocidad>65</velocidad>
+        </puntos_base>
+        <nombre>Sandslash</nombre>
+        <descripcion>Sandslash es capaz de enroscarse sobre sí mismo y transformarse en una bola de pinchos giratoria.
+            En estas condiciones, puede rodar y atacar a su oponente.
+        </descripcion>
+        <altura>1.0</altura>
+        <peso>29.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Ratón</categoria>
+        <habilidad>Velo Arena</habilidad>
+        <tipo>Tierra</tipo>
+        <debilidad>Agua</debilidad>
+        <debilidad>Planta</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>29</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/29_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>55</ps>
+            <ataque>47</ataque>
+            <defensa>52</defensa>
+            <ataque_especial>40</ataque_especial>
+            <defensa_especial>40</defensa_especial>
+            <velocidad>41</velocidad>
+        </puntos_base>
+        <nombre>Nidoran♀</nombre>
+        <descripcion>Nidoran ♀ tiene unas espinas muy desarrolladas que considera su mejor arma. Ten cuidado: si te
+            pincha con una espina, te inyectará un veneno muy fuerte.
+        </descripcion>
+        <altura>0.4</altura>
+        <peso>7.0</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Pin Veneno</categoria>
+        <habilidad>Punto Tóxico</habilidad>
+        <habilidad>Rivalidad</habilidad>
+        <tipo>Veneno</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Tierra</debilidad>
+        <evolucion nombre="Nidorina" nivel="16"/>
+    </pokemon>
+    <pokemon>
+        <numero>30</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/30_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>70</ps>
+            <ataque>62</ataque>
+            <defensa>67</defensa>
+            <ataque_especial>55</ataque_especial>
+            <defensa_especial>55</defensa_especial>
+            <velocidad>56</velocidad>
+        </puntos_base>
+        <nombre>Nidorina</nombre>
+        <descripcion>Cuando Nidorina está con sus amigos o familiares, se pone a tensar las púas que tiene. Así es como
+            les demuestra que está alerta y vigilando.
+        </descripcion>
+        <altura>0.8</altura>
+        <peso>20.0</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Pin Veneno</categoria>
+        <habilidad>Punto Tóxico</habilidad>
+        <habilidad>Rivalidad</habilidad>
+        <tipo>Veneno</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Tierra</debilidad>
+        <evolucion nombre="Nidoqueen" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>31</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/31_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>90</ps>
+            <ataque>92</ataque>
+            <defensa>87</defensa>
+            <ataque_especial>75</ataque_especial>
+            <defensa_especial>85</defensa_especial>
+            <velocidad>76</velocidad>
+        </puntos_base>
+        <nombre>Nidoqueen</nombre>
+        <descripcion>Nidoqueen tiene el cuerpo recubierto de escamas durísimas. Le gusta usar su corpulento cuerpo para
+            arrollar y aplastar a sus enemigos.
+        </descripcion>
+        <altura>1.3</altura>
+        <peso>60.0</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Taladro</categoria>
+        <habilidad>Punto Tóxico</habilidad>
+        <habilidad>Rivalidad</habilidad>
+        <tipo>Veneno</tipo>
+        <tipo>Tierra</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Agua</debilidad>
+        <debilidad>Planta</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>32</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/32_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>46</ps>
+            <ataque>57</ataque>
+            <defensa>40</defensa>
+            <ataque_especial>40</ataque_especial>
+            <defensa_especial>40</defensa_especial>
+            <velocidad>50</velocidad>
+        </puntos_base>
+        <nombre>Nidoran♂</nombre>
+        <descripcion>Nidoran ♂ desarrolla sus músculos para mover las orejas. Así puede dirigir sus orejas a cualquier
+            lado. Con ellas, puede tantear los alrededores aunque esté en la hierba alta.
+        </descripcion>
+        <altura>0.5</altura>
+        <peso>9.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Pin Veneno</categoria>
+        <habilidad>Punto Tóxico</habilidad>
+        <habilidad>Rivalidad</habilidad>
+        <tipo>Veneno</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Tierra</debilidad>
+        <evolucion nombre="Nidorino" nivel="16"/>
+    </pokemon>
+    <pokemon>
+        <numero>33</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/33_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>61</ps>
+            <ataque>72</ataque>
+            <defensa>57</defensa>
+            <ataque_especial>55</ataque_especial>
+            <defensa_especial>55</defensa_especial>
+            <velocidad>65</velocidad>
+        </puntos_base>
+        <nombre>Nidorino</nombre>
+        <descripcion>Nidorino tiene un cuerno más duro que el diamante. Ten cuidado, porque si nota un peligro, lo
+            levanta y te embiste con él.
+        </descripcion>
+        <altura>0.9</altura>
+        <peso>19.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Pin Veneno</categoria>
+        <habilidad>Punto Tóxico</habilidad>
+        <habilidad>Rivalidad</habilidad>
+        <tipo>Veneno</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Tierra</debilidad>
+        <evolucion nombre="Nidoking" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>34</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/34_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>81</ps>
+            <ataque>102</ataque>
+            <defensa>77</defensa>
+            <ataque_especial>85</ataque_especial>
+            <defensa_especial>75</defensa_especial>
+            <velocidad>85</velocidad>
+        </puntos_base>
+        <nombre>Nidoking</nombre>
+        <descripcion>Se dice que los robustos brazos de Nidoking tienen una fuerza increíble. Con ellos puede dar un
+            puñetazo que deje doblada la barra de un tendido eléctrico.
+        </descripcion>
+        <altura>1.4</altura>
+        <peso>62.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Taladro</categoria>
+        <habilidad>Punto Tóxico</habilidad>
+        <habilidad>Rivalidad</habilidad>
+        <tipo>Veneno</tipo>
+        <tipo>Tierra</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Agua</debilidad>
+        <debilidad>Planta</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>35</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/35_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>70</ps>
+            <ataque>45</ataque>
+            <defensa>48</defensa>
+            <ataque_especial>60</ataque_especial>
+            <defensa_especial>65</defensa_especial>
+            <velocidad>35</velocidad>
+        </puntos_base>
+        <nombre>Clefairy</nombre>
+        <descripcion>Clefairy es tan raro que es muy difícil dar con él. La gente dice que aparece en noches de luna
+            llena en lugares tranquilos.
+        </descripcion>
+        <altura>0.6</altura>
+        <peso>7.5</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Hada</categoria>
+        <habilidad>Gran Encanto</habilidad>
+        <habilidad>Muro Mágico</habilidad>
+        <tipo>Hada</tipo>
+        <debilidad>Veneno</debilidad>
+        <debilidad>Acero</debilidad>
+        <evolucion nombre="Clefable" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>36</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/36_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>95</ps>
+            <ataque>70</ataque>
+            <defensa>73</defensa>
+            <ataque_especial>95</ataque_especial>
+            <defensa_especial>90</defensa_especial>
+            <velocidad>60</velocidad>
+        </puntos_base>
+        <nombre>Clefable</nombre>
+        <descripcion>Dicen que Clefable vive en silenciosas montañas. Se mueve saltando como si volara con sus alas en
+            las orejas.
+        </descripcion>
+        <altura>1.3</altura>
+        <peso>40.0</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Hada</categoria>
+        <habilidad>Gran Encanto</habilidad>
+        <habilidad>Muro Mágico</habilidad>
+        <tipo>Hada</tipo>
+        <debilidad>Veneno</debilidad>
+        <debilidad>Acero</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>37</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/37_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>38</ps>
+            <ataque>41</ataque>
+            <defensa>40</defensa>
+            <ataque_especial>50</ataque_especial>
+            <defensa_especial>65</defensa_especial>
+            <velocidad>65</velocidad>
+        </puntos_base>
+        <nombre>Vulpix</nombre>
+        <descripcion>Dentro del cuerpo de Vulpix arde una llama. Cuando está a punto de evolucionar, la echa por la
+            boca.
+        </descripcion>
+        <altura>0.6</altura>
+        <peso>9.9</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Zorro</categoria>
+        <habilidad>Absorbe Fuego</habilidad>
+        <tipo>Fuego</tipo>
+        <debilidad>Tierra</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Agua</debilidad>
+        <evolucion nombre="Ninetales" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>38</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/38_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>73</ps>
+            <ataque>76</ataque>
+            <defensa>75</defensa>
+            <ataque_especial>81</ataque_especial>
+            <defensa_especial>100</defensa_especial>
+            <velocidad>100</velocidad>
+        </puntos_base>
+        <nombre>Ninetales</nombre>
+        <descripcion>Se dice que Ninetales vive 1.000 años y que cada una de sus nueve colas tiene un poder sobrenatural
+            distinto.
+        </descripcion>
+        <altura>1.1</altura>
+        <peso>19.9</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Zorro</categoria>
+        <habilidad>Absorbe Fuego</habilidad>
+        <tipo>Fuego</tipo>
+        <debilidad>Tierra</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Agua</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>39</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/39_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>115</ps>
+            <ataque>45</ataque>
+            <defensa>20</defensa>
+            <ataque_especial>45</ataque_especial>
+            <defensa_especial>25</defensa_especial>
+            <velocidad>20</velocidad>
+        </puntos_base>
+        <nombre>Jigglypuff</nombre>
+        <descripcion>La voz de Jigglypuff tiene una frecuencia muy especial que adormece a quien la oye. Jigglypuff
+            aprovecha que el rival se ha dormido para pintarle la cara a gusto.
+        </descripcion>
+        <altura>0.5</altura>
+        <peso>5.5</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Globo</categoria>
+        <habilidad>Gran Encanto</habilidad>
+        <habilidad>Tenacidad</habilidad>
+        <tipo>Normal</tipo>
+        <tipo>Hada</tipo>
+        <debilidad>Veneno</debilidad>
+        <debilidad>Acero</debilidad>
+        <evolucion nombre="Wigglytuff" nivel="36"/>
+    </pokemon>
+    <pokemon>
+        <numero>40</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/40_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>140</ps>
+            <ataque>70</ataque>
+            <defensa>45</defensa>
+            <ataque_especial>85</ataque_especial>
+            <defensa_especial>50</defensa_especial>
+            <velocidad>45</velocidad>
+        </puntos_base>
+        <nombre>Wigglytuff</nombre>
+        <descripcion>A Wigglytuff le hinchan los ojos si se enfada. Si empieza a enfadarse de verdad, no parará de
+            saltar y pisotear el suelo.
+        </descripcion>
+        <altura>1.0</altura>
+        <peso>12.0</peso>
+        <genero>Femenino</genero>
+        <categoria>Pokémon Globo</categoria>
+        <habilidad>Gran Encanto</habilidad>
+        <habilidad>Tenacidad</habilidad>
+        <tipo>Normal</tipo>
+        <tipo>Hada</tipo>
+        <debilidad>Veneno</debilidad>
+        <debilidad>Acero</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>41</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/41_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>40</ps>
+            <ataque>45</ataque>
+            <defensa>35</defensa>
+            <ataque_especial>30</ataque_especial>
+            <defensa_especial>40</defensa_especial>
+            <velocidad>55</velocidad>
+        </puntos_base>
+        <nombre>Zubat</nombre>
+        <descripcion>Zubat permanece inmóvil y en silencio en lugares oscuros y tenebrosos hasta que cae el sol. Cuando
+            se activa y empieza a volar por la noche, busca sangre fresca para alimentarse.
+        </descripcion>
+        <altura>0.8</altura>
+        <peso>7.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Murciélago</categoria>
+        <habilidad>Cromolente</habilidad>
+        <tipo>Veneno</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Golbat" nivel="22"/>
+    </pokemon>
+    <pokemon>
+        <numero>42</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/42_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>75</ps>
+            <ataque>80</ataque>
+            <defensa>70</defensa>
+            <ataque_especial>65</ataque_especial>
+            <defensa_especial>75</defensa_especial>
+            <velocidad>90</velocidad>
+        </puntos_base>
+        <nombre>Golbat</nombre>
+        <descripcion>Golbat adora beber la sangre de seres vivos. Es más activo en noches oscuras y sin luna. Vuela en
+            la oscuridad total usando las ondas supersónicas que emite.
+        </descripcion>
+        <altura>1.6</altura>
+        <peso>55.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Murciélago</categoria>
+        <habilidad>Cromolente</habilidad>
+        <tipo>Veneno</tipo>
+        <tipo>Volador</tipo>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Eléctrico</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>43</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/43_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>45</ps>
+            <ataque>50</ataque>
+            <defensa>55</defensa>
+            <ataque_especial>75</ataque_especial>
+            <defensa_especial>65</defensa_especial>
+            <velocidad>30</velocidad>
+        </puntos_base>
+        <nombre>Oddish</nombre>
+        <descripcion>Oddish pasa todo el día enterrado en la tierra, sin moverse. Cuanto más fértil es la tierra, más
+            lustrosas se le vuelven las hojas.
+        </descripcion>
+        <altura>0.5</altura>
+        <peso>5.4</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Hierbajo</categoria>
+        <habilidad>Clorofila</habilidad>
+        <habilidad>Fuga</habilidad>
+        <tipo>Planta</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Gloom" nivel="21"/>
+    </pokemon>
+    <pokemon>
+        <numero>44</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/44_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>60</ps>
+            <ataque>65</ataque>
+            <defensa>70</defensa>
+            <ataque_especial>85</ataque_especial>
+            <defensa_especial>75</defensa_especial>
+            <velocidad>40</velocidad>
+        </puntos_base>
+        <nombre>Gloom</nombre>
+        <descripcion>Gloom segrega un fluido maloliente y asqueroso de la flor que tiene. Dicen, sin embargo, que a
+            quien lo aguanta, no le cabe mayor dicha en la vida.
+        </descripcion>
+        <altura>0.8</altura>
+        <peso>8.6</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Hierbajo</categoria>
+        <habilidad>Clorofila</habilidad>
+        <habilidad>Fuga</habilidad>
+        <tipo>Planta</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Vileplume" nivel="27"/>
+    </pokemon>
+    <pokemon>
+        <numero>45</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/45_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>75</ps>
+            <ataque>80</ataque>
+            <defensa>85</defensa>
+            <ataque_especial>110</ataque_especial>
+            <defensa_especial>90</defensa_especial>
+            <velocidad>50</velocidad>
+        </puntos_base>
+        <nombre>Vileplume</nombre>
+        <descripcion>Vileplume tiene los pétalos de la flor muy grandes. Los usa para andar por ahí. Los pétalos se caen
+            de vez en cuando, pero no paran de crecer nuevos.
+        </descripcion>
+        <altura>1.2</altura>
+        <peso>18.6</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Flor</categoria>
+        <habilidad>Clorofila</habilidad>
+        <habilidad>Fuga</habilidad>
+        <tipo>Planta</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Hielo</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>46</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/46_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>35</ps>
+            <ataque>70</ataque>
+            <defensa>55</defensa>
+            <ataque_especial>45</ataque_especial>
+            <defensa_especial>55</defensa_especial>
+            <velocidad>25</velocidad>
+        </puntos_base>
+        <nombre>Paras</nombre>
+        <descripcion>Paras tiene unos hongos parásitos llamados tochukaso que crecen en el lomo y con los que mantiene
+            una relación simbiótica. Los hongos absorben la energía nutritiva del Pokémon Bicho.
+        </descripcion>
+        <altura>0.3</altura>
+        <peso>5.4</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Hongo</categoria>
+        <habilidad>Efecto Espora</habilidad>
+        <habilidad>Piel Seca</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Planta</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Veneno</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Bicho</debilidad>
+        <evolucion nombre="Parasect" nivel="24"/>
+    </pokemon>
+    <pokemon>
+        <numero>47</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/47_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>60</ps>
+            <ataque>95</ataque>
+            <defensa>80</defensa>
+            <ataque_especial>60</ataque_especial>
+            <defensa_especial>80</defensa_especial>
+            <velocidad>30</velocidad>
+        </puntos_base>
+        <nombre>Parasect</nombre>
+        <descripcion>A Parasect se le conoce por vivir en troncos de árboles grandes repletos de insectos Bicho que le
+            gustan. Los tochukaso que tiene en el lomo controlan a este Pokémon.
+        </descripcion>
+        <altura>1.0</altura>
+        <peso>29.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Hongo</categoria>
+        <habilidad>Efecto Espora</habilidad>
+        <habilidad>Piel Seca</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Planta</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Veneno</debilidad>
+        <debilidad>Roca</debilidad>
+        <debilidad>Bicho</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>48</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/048.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/48_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>60</ps>
+            <ataque>55</ataque>
+            <defensa>50</defensa>
+            <ataque_especial>40</ataque_especial>
+            <defensa_especial>55</defensa_especial>
+            <velocidad>45</velocidad>
+        </puntos_base>
+        <nombre>Venonat</nombre>
+        <descripcion>Venonat tiene fama de ser goloso de insectos atraídos por la luz. Este Pokémon sale a cazar de
+            noche y lo localizas porque tiene los ojos como dos bombillas que brillan en la oscuridad.
+        </descripcion>
+        <altura>1.0</altura>
+        <peso>30.0</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Bicho Veneno</categoria>
+        <habilidad>Ojo Compuesto</habilidad>
+        <habilidad>Cromolente</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Roca</debilidad>
+        <evolucion nombre="Venomoth" nivel="31"/>
+    </pokemon>
+    <pokemon>
+        <numero>49</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/049.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/49_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>70</ps>
+            <ataque>65</ataque>
+            <defensa>60</defensa>
+            <ataque_especial>90</ataque_especial>
+            <defensa_especial>75</defensa_especial>
+            <velocidad>90</velocidad>
+        </puntos_base>
+        <nombre>Venomoth</nombre>
+        <descripcion>Venomoth es un Pokémon nocturno, es decir, solo se le ve activo de noche. Los Pokémon de tipo Bicho
+            que se le acercan a la luz son su plato preferido.
+        </descripcion>
+        <altura>1.5</altura>
+        <peso>12.5</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Polilla Veneno</categoria>
+        <habilidad>Cromolente</habilidad>
+        <habilidad>Manto Níveo</habilidad>
+        <tipo>Bicho</tipo>
+        <tipo>Veneno</tipo>
+        <debilidad>Fuego</debilidad>
+        <debilidad>Volador</debilidad>
+        <debilidad>Psíquico</debilidad>
+        <debilidad>Roca</debilidad>
+    </pokemon>
+    <pokemon>
+        <numero>50</numero>
+        <imagen>https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/050.png</imagen>
+        <imagen_shiny>https://www.pokencyclopedia.info/sprites/gen1/normal/50_shiny.png</imagen_shiny>
+        <puntos_base>
+            <ps>10</ps>
+            <ataque>55</ataque>
+            <defensa>25</defensa>
+            <ataque_especial>35</ataque_especial>
+            <defensa_especial>45</defensa_especial>
+            <velocidad>95</velocidad>
+        </puntos_base>
+        <nombre>Diglett</nombre>
+        <descripcion>Diglett excava y se mueve por debajo de la tierra. Se dice que allá donde este Pokémon ara la
+            tierra, ésta se vuelve perfecta para cultivar.
+        </descripcion>
+        <altura>0.2</altura>
+        <peso>0.8</peso>
+        <genero>Masculino</genero>
+        <categoria>Pokémon Topo</categoria>
+        <habilidad>Velo Arena</habilidad>
+        <habilidad>Trampa Arena</habilidad>
+        <tipo>Tierra</tipo>
+        <debilidad>Agua</debilidad>
+        <debilidad>Planta</debilidad>
+        <debilidad>Hielo</debilidad>
+        <evolucion nombre="Dugtrio" nivel="26"/>
+    </pokemon>
+</pokedex>
